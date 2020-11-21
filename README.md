@@ -9,13 +9,21 @@ VGA: GIGABYTE AMD Radeon™ RX 5700 8GB
 PSU: Super Flower Leadex III Gold 850W
 SSD: Samsung 970 evo plus 256
 Card Wifi + Blutooth: Card wifi Apple chipset Broadcom BCM94331CD + Bluetooth 4.0- PCI Express x 1 N dual band 5 Ghz 
-Case: Vỏ Case NZXT H500 MATTE (Mid Tower/White)
+Case: Case NZXT H500 MATTE (Mid Tower/White)
 Fan CPU: Jonsbo CR-1000GT ARGB Sync
 FAN Case: Fan Case Coolmoon X Led RGB Dual Ring Hub Music X4 Và Remote
 ```
 
-# Hackintosh + OpenCore (Supported version: 0.5.9)
+# Guide Hackintosh + OpenCore
 - https://dortania.github.io/OpenCore-Desktop-Guide
+
+
+# Version Hackintosh + OpenCore (OpenCore 0.5.9 - macOS Catalina)
+- [See more](/OpenCore_059_macOS_Catalina)
+
+# [21/11/2020] Version Hackintosh + OpenCore (OpenCore 0.6.3 - macOS Big Sur)
+- [See more](/OpenCore_063_macOS_Big_Sur)
+
 
 # Everything Works
 - Continuity:
